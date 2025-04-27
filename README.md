@@ -2,7 +2,7 @@
 Welcome to my Time Series repository!
 This project covers the entire journey of time series modeling and forecasting — starting from basic models like ARMA, advancing through ARIMA, SARIMA, GARCH, and culminating into Anomaly Detection techniques.
 
-🚀 What You’ll Find Here
+**🚀 What You’ll Find Here**
 Data Preprocessing
 
 Handling missing values
@@ -49,7 +49,7 @@ Forecasting Results Plots
 
 Residual Diagnostics
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 Python 3.10+
 
 Pandas for data manipulation
@@ -68,6 +68,7 @@ yfinance for stock price extraction
 
 SciPy for statistical testing
 
-🤝 Let's Connect!
+**🤝 Let's Connect!
 Feel free to fork, star ⭐, and contribute!
 If you have any suggestions or want to collaborate, let's connect on LinkedIn or open an issue!
+**
