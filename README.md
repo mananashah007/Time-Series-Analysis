@@ -30,8 +30,6 @@ VAR (Vector AutoRegression) for Multivariate Series
 
 Seasonality Decomposition
 
-Advanced Topics
-
 Granger Causality Tests
 
 Monte Carlo Simulations for Uncertainty
