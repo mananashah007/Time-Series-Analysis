@@ -3,6 +3,7 @@ Welcome to my Time Series repository!
 This project covers the entire journey of time series modeling and forecasting — starting from basic models like ARMA, advancing through ARIMA, SARIMA, GARCH, and culminating into Anomaly Detection techniques.
 
 **🚀 What You’ll Find Here**
+
 Data Preprocessing
 
 Handling missing values
@@ -50,6 +51,7 @@ Forecasting Results Plots
 Residual Diagnostics
 
 **🛠️ Technologies Used**
+
 Python 3.10+
 
 Pandas for data manipulation
