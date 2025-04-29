@@ -1,4 +1,4 @@
-# time_series_analysis
+# Time Series Analysis
 Welcome to my Time Series repository!
 This project covers the entire journey of time series modeling and forecasting — starting from basic models like ARMA, advancing through ARIMA, SARIMA, GARCH, and culminating into Anomaly Detection techniques.
 
