@@ -34,11 +34,7 @@ Granger Causality Tests
 
 Monte Carlo Simulations for Uncertainty
 
-Forecasting with Exogenous Variables (ARIMAX)
-
 Anomaly Detection in Time Series
-
-Visualization
 
 ACF and PACF Plots
 
@@ -70,5 +66,5 @@ SciPy for statistical testing
 
 **🤝 Let's Connect!
 Feel free to fork, star ⭐, and contribute!
-If you have any suggestions or want to collaborate, let's connect on LinkedIn or open an issue!
+If you have any suggestions or want to collaborate, let's open an issue!
 **
